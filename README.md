@@ -35,3 +35,25 @@ Script de automação para configuração inicial do Windows 11 em ambientes cor
 ## Processo de automação
 
 ![Deploy Process](deploy-process.png)
+## Execução do Script
+
+Execute o script como administrador a partir do computador cliente:
+
+powershell.exe -ExecutionPolicy Bypass -File \\SERVIDOR\Deploy\Win11\instalar.ps1
+## Estrutura do Projeto
+
+win11-powershell-deployment
+│
+├── Deploy
+│   └── Win11
+│       ├── instalar.ps1
+│       └── configuration.xml
+│
+├── README.md
+└── LICENSE
+## Tecnologias
+
+- Windows 11
+- Windows Server
+- PowerShell
+- Automação de deploy
