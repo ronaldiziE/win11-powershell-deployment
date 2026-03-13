@@ -22,7 +22,7 @@ This project automates common post-installation tasks in Windows 11 environments
 - Windows 11
 - Automation Scripts
 - System Deployment
-
+![Deploy](images/deploy-process.png)
 ---
 
 ## 📂 Project Structure
