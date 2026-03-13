@@ -26,3 +26,6 @@ This project automates common post-installation tasks in Windows 11 environments
 ---
 
 ## 📂 Project Structure
+## Processo de Deploy
+
+![Deploy Windows 11](deploy-process.png)
