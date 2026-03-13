@@ -28,4 +28,10 @@ This project automates common post-installation tasks in Windows 11 environments
 ## 📂 Project Structure
 ## Processo de Deploy
 
-![Deploy Windows 11](deploy-process.png)
+# Windows 11 PowerShell Deployment
+
+Script de automação para configuração inicial do Windows 11 em ambientes corporativos.
+
+## Processo de automação
+
+![Deploy Process](deploy-process.png)
