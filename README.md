@@ -1,16 +1,28 @@
 # 🚀 Windows 11 Deployment Automation
 
-PowerShell script for automated Windows 11 setup including Chrome installation, system locale configuration and Office deployment.
+PowerShell script for automated Windows 11 setup and initial configuration.
 
-## Usage
+This project automates common post-installation tasks in Windows 11 environments, such as installing software and configuring system settings.
 
-Run PowerShell as administrator:
+---
 
-.\deploy.ps1
+## 📌 Features
 
-## Technologies
+- Automatic deployment folder creation
+- Google Chrome automated download and installation
+- Windows language configuration (PT-BR)
+- Microsoft Office installation using Office Deployment Tool
+- Installation logging
+
+---
+
+## ⚙️ Technologies
 
 - PowerShell
 - Windows 11
-- Automation
+- Automation Scripts
 - System Deployment
+
+---
+
+## 📂 Project Structure
