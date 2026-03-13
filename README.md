@@ -7,3 +7,10 @@ PowerShell script for automated Windows 11 setup including Chrome installation, 
 Run PowerShell as administrator:
 
 .\deploy.ps1
+
+## Technologies
+
+- PowerShell
+- Windows 11
+- Automation
+- System Deployment
